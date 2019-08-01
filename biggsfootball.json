@@ -2298,7 +2298,7 @@
 },
 {
 "abbreviation" : "COT",
-"prestige" : "54",
+"prestige" : "40",
 "state" : "Oklahoma",
 "name" : "Central Oklahoma Tech",
 "headCoach" : {
@@ -2321,7 +2321,7 @@
 },
 {
 "abbreviation" : "TA&T",
-"prestige" : "55",
+"prestige" : "40",
 "state" : "Oklahoma",
 "name" : "Tulsa A&T",
 "headCoach" : {
@@ -2344,7 +2344,7 @@
 },
 {
 "abbreviation" : "AREM",
-"prestige" : "56",
+"prestige" : "45",
 "state" : "Missouri",
 "name" : "American Remedial Institute",
 "headCoach" : {
