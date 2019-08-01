@@ -2523,13 +2523,13 @@
     {
       "confName": "MVFC",
       "confFullName": "Missouri Valley FCS",
-      "confPrestige": "27",
+      "confPrestige": "35",
       "confTeams": 
       [        
         {
           "name": "North Dakota State",
           "abbreviation": "NDSU",
-          "prestige": "28",
+          "prestige": "55",
           "state": "North Dakota",
           "rival": "SDSU",
           "headCoach": 
@@ -2542,9 +2542,9 @@
             "homeState": "Montana",
             "baselinePrestige": "23",
             "cumulativePrestige": "0",
-            "ratOvr": "66",
-            "ratDef": "45",
-            "ratOff": "40",
+            "ratOvr": "73",
+            "ratDef": "75",
+            "ratOff": "73",
             "ratTalent": "44",
             "ratDiscipline": "78",
             "ratPot": "73"
@@ -2553,7 +2553,7 @@
         {
           "name": "South Dakota State",
           "abbreviation": "SDSU",
-          "prestige": "29",
+          "prestige": "53",
           "state": "South Dakota",
           "rival": "NDSU",
           "headCoach": 
@@ -2566,10 +2566,10 @@
             "homeState": "West Virginia",
             "baselinePrestige": "24",
             "cumulativePrestige": "0",
-            "ratOvr": "56",
-            "ratDef": "47",
-            "ratOff": "49",
-            "ratTalent": "46",
+            "ratOvr": "66",
+            "ratDef": "67",
+            "ratOff": "60",
+            "ratTalent": "66",
             "ratDiscipline": "75",
             "ratPot": "76"
           }
@@ -2577,7 +2577,7 @@
         {
           "name": "Northern Iowa",
           "abbreviation": "UNI",
-          "prestige": "25",
+          "prestige": "50",
           "state": "Iowa",
           "rival": "WIU",
           "headCoach": 
@@ -2590,9 +2590,9 @@
             "homeState": "Idaho",
             "baselinePrestige": "20",
             "cumulativePrestige": "0",
-            "ratOvr": "56",
-            "ratDef": "44",
-            "ratOff": "49",
+            "ratOvr": "67",
+            "ratDef": "67",
+            "ratOff": "64",
             "ratTalent": "46",
             "ratDiscipline": "68",
             "ratPot": "78"
@@ -2601,7 +2601,7 @@
         {
           "name": "Tulsa Cmnty College",
           "abbreviation": "TCC",
-          "prestige": "30",
+          "prestige": "35",
           "state": "Oklahoma",
           "rival": "USRI",
           "headCoach": 
@@ -2615,9 +2615,9 @@
             "baselinePrestige": "25",
             "cumulativePrestige": "0",
             "ratOvr": "60",
-            "ratDef": "46",
-            "ratOff": "47",
-            "ratTalent": "43",
+            "ratDef": "63",
+            "ratOff": "59",
+            "ratTalent": "57",
             "ratDiscipline": "76",
             "ratPot": "72"
           }
@@ -2625,7 +2625,7 @@
         {
           "name": "Western Illinois",
           "abbreviation": "WIU",
-          "prestige": "31",
+          "prestige": "47",
           "state": "Illinois",
           "rival": "UNI",
           "headCoach": 
@@ -2638,10 +2638,10 @@
             "homeState": "Oregon",
             "baselinePrestige": "26",
             "cumulativePrestige": "0",
-            "ratOvr": "55",
-            "ratDef": "48",
-            "ratOff": "52",
-            "ratTalent": "41",
+            "ratOvr": "68",
+            "ratDef": "74",
+            "ratOff": "55",
+            "ratTalent": "60",
             "ratDiscipline": "72",
             "ratPot": "76"
           }
@@ -2649,7 +2649,7 @@
         {
           "name": "Illinois State",
           "abbreviation": "ILST",
-          "prestige": "25",
+          "prestige": "47",
           "state": "Illinois",
           "rival": "USD",
           "headCoach": 
@@ -2662,10 +2662,10 @@
             "homeState": "Texas",
             "baselinePrestige": "20",
             "cumulativePrestige": "0",
-            "ratOvr": "75",
-            "ratDef": "43",
-            "ratOff": "41",
-            "ratTalent": "41",
+            "ratOvr": "70",
+            "ratDef": "67",
+            "ratOff": "73",
+            "ratTalent": "62",
             "ratDiscipline": "75",
             "ratPot": "72"
           }
@@ -2686,10 +2686,10 @@
             "homeState": "Oklahoma",
             "baselinePrestige": "23",
             "cumulativePrestige": "0",
-            "ratOvr": "20",
-            "ratDef": "20",
-            "ratOff": "20",
-            "ratTalent": "78",
+            "ratOvr": "30",
+            "ratDef": "30",
+            "ratOff": "30",
+            "ratTalent": "40",
             "ratDiscipline": "15",
             "ratPot": "80"
           }
@@ -2697,7 +2697,7 @@
         {
           "name": "Univ South Dakota",
           "abbreviation": "USD",
-          "prestige": "25",
+          "prestige": "48",
           "state": "South Dakota",
           "rival": "ILST",
           "headCoach": 
@@ -2711,9 +2711,9 @@
             "baselinePrestige": "20",
             "cumulativePrestige": "0",
             "ratOvr": "63",
-            "ratDef": "44",
-            "ratOff": "45",
-            "ratTalent": "45",
+            "ratDef": "59",
+            "ratOff": "63",
+            "ratTalent": "55",
             "ratDiscipline": "80",
             "ratPot": "76"
           }
@@ -2734,9 +2734,9 @@
             "homeState": "Oklahoma",
             "baselinePrestige": "20",
             "cumulativePrestige": "0",
-            "ratOvr": "67",
-            "ratDef": "55",
-            "ratOff": "65",
+            "ratOvr": "50",
+            "ratDef": "50",
+            "ratOff": "50",
             "ratTalent": "95",
             "ratDiscipline": "80",
             "ratPot": "85"
@@ -2758,9 +2758,9 @@
             "homeState": "Oklahoma",
             "baselinePrestige": "20",
             "cumulativePrestige": "0",
-            "ratOvr": "67",
-            "ratDef": "55",
-            "ratOff": "65",
+            "ratOvr": "50",
+            "ratDef": "50",
+            "ratOff": "50",
             "ratTalent": "95",
             "ratDiscipline": "45",
             "ratPot": "85"
