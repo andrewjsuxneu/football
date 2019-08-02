@@ -1,0 +1,3020 @@
+{
+  "bowlGames": 
+  [
+    "Rose Bowl",
+    "Orange Bowl",
+    "Sugar Bowl",
+    "Cotton Bowl",
+    "Peach Bowl",
+    "Fiesta Bowl",
+    "Citrus Bowl",
+    "Alamo Bowl",
+    "Outback Bowl",
+    "Holiday Bowl",
+    "Amazon Bowl",
+    "Bass Pro Bowl",
+    "Apple Bowl",
+    "Nelk Bowl",
+    "Hooters Bowl",
+    "Liberty Bowl",
+    "Redbox Bowl",
+    "Sun Bowl",
+    "Gator Bowl",
+    "Las Vegas Bowl",
+    "Military Bowl",
+    "Nike Bowl",
+    "Corona Bowl",
+    "Dollar General Bowl",
+    "Independence Bowl",
+    "PlayStation Bowl",
+    "New Mexico Bowl",
+    "Cheez-It Bowl",
+    "Xbox Bowl",
+    "Chili Bowl",
+    "New Orleans Bowl",
+    "Participation Bowl",
+    "Slim Thiccs Bowl",
+    "Canes Bowl",
+    "WhataBowl",
+    "Toilet Bowl"
+  ],
+  "conferences": 
+  [    
+    {
+      "confName": "6A-W",
+      "confFullName": "6A West",
+      "confPrestige": "72",
+      "confTeams": 
+      [        
+        {
+          "name": "Putnam North",
+          "abbreviation": "PCN",
+          "prestige": "66",
+          "state": "Oklahoma",
+          "rival": "YUKN",
+          "headCoach": 
+          {
+            "name": "Bob Mckdickerson",
+            "age": "67",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "West Virginia",
+            "baselinePrestige": "70",
+            "cumulativePrestige": "5",
+            "ratOvr": "68",
+            "ratDef": "62",
+            "ratOff": "59",
+            "ratTalent": "62",
+            "ratDiscipline": "62",
+            "ratPot": "55"
+          }
+        },        
+        {
+          "name": "Yukon",
+          "abbreviation": "YUKN",
+          "prestige": "48",
+          "state": "Oklahoma",
+          "rival": "PCN",
+          "headCoach": 
+          {
+            "name": "Chance Reed",
+            "age": "43",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "5",
+            "homeState": "Alabama",
+            "baselinePrestige": "55",
+            "cumulativePrestige": "7",
+            "ratOvr": "67",
+            "ratDef": "64",
+            "ratOff": "71",
+            "ratTalent": "66",
+            "ratDiscipline": "71",
+            "ratPot": "75"
+          }
+        },        
+        {
+          "name": "Edmond Memorial",
+          "abbreviation": "EDME",
+          "prestige": "52",
+          "state": "Oklahoma",
+          "rival": "EDSF",
+          "headCoach": 
+          {
+            "name": "Zack Fiscal",
+            "age": "52",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "5",
+            "homeState": "Pennsylvania",
+            "baselinePrestige": "56",
+            "cumulativePrestige": "9",
+            "ratOvr": "71",
+            "ratDef": "68",
+            "ratOff": "72",
+            "ratTalent": "68",
+            "ratDiscipline": "57",
+            "ratPot": "67"
+          }
+        },        
+        {
+          "name": "Edmond Santa Fe",
+          "abbreviation": "EDSF",
+          "prestige": "51",
+          "state": "Oklahoma",
+          "rival": "EDME",
+          "headCoach": 
+          {
+            "name": "Phillip Wilson",
+            "age": "45",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "5",
+            "homeState": "Alabama",
+            "baselinePrestige": "60",
+            "cumulativePrestige": "3",
+            "ratOvr": "69",
+            "ratDef": "79",
+            "ratOff": "66",
+            "ratTalent": "68",
+            "ratDiscipline": "62",
+            "ratPot": "83"
+          }
+        },        
+        {
+          "name": "Norman",
+          "abbreviation": "NOR",
+          "prestige": "67",
+          "state": "Oklahoma",
+          "rival": "NORN",
+          "headCoach": 
+          {
+            "name": "Bob Stoops",
+            "age": "58",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "5",
+            "homeState": "Oklahoma",
+            "baselinePrestige": "75",
+            "cumulativePrestige": "4",
+            "ratOvr": "75",
+            "ratDef": "86",
+            "ratOff": "78",
+            "ratTalent": "70",
+            "ratDiscipline": "74",
+            "ratPot": "72"
+          }
+        },        
+        {
+          "name": "Westmoore",
+          "abbreviation": "WMOR",
+          "prestige": "70",
+          "state": "Oklahoma",
+          "rival": "SMOR",
+          "headCoach": 
+          {
+            "name": "Mark Jackson",
+            "age": "52",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Mississippi",
+            "baselinePrestige": "64",
+            "cumulativePrestige": "0",
+            "ratOvr": "74",
+            "ratDef": "65",
+            "ratOff": "68",
+            "ratTalent": "68",
+            "ratDiscipline": "87",
+            "ratPot": "75"
+          }
+        },        
+        {
+          "name": "Southmoore",
+          "abbreviation": "SMOR",
+          "prestige": "66",
+          "state": "Oklahoma",
+          "rival": "WMOR",
+          "headCoach": 
+          {
+            "name": "Barry Tanner",
+            "age": "42",
+            "startYear": "2019",
+            "contractYear": "1",
+            "contractLength": "5",
+            "homeState": "Texas",
+            "baselinePrestige": "65",
+            "cumulativePrestige": "0",
+            "ratOvr": "69",
+            "ratDef": "65",
+            "ratOff": "72",
+            "ratTalent": "68",
+            "ratDiscipline": "70",
+            "ratPot": "76"
+          }
+        },        
+        {
+          "name": "Mustang",
+          "abbreviation": "MUST",
+          "prestige": "74",
+          "state": "Oklahoma",
+          "rival": "MOOR",
+          "headCoach": 
+          {
+            "name": "John Moorhead",
+            "age": "45",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "4",
+            "homeState": "Pennsylvania",
+            "baselinePrestige": "68",
+            "cumulativePrestige": "3",
+            "ratOvr": "68",
+            "ratDef": "66",
+            "ratOff": "70",
+            "ratTalent": "63",
+            "ratDiscipline": "74",
+            "ratPot": "80"
+          }
+        },        
+        {
+          "name": "Norman North",
+          "abbreviation": "NORN",
+          "prestige": "73",
+          "state": "Oklahoma",
+          "rival": "NOR",
+          "headCoach": 
+          {
+            "name": "Gus Henderson",
+            "age": "53",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "2",
+            "homeState": "Texas",
+            "baselinePrestige": "74",
+            "cumulativePrestige": "2",
+            "ratOvr": "75",
+            "ratDef": "71",
+            "ratOff": "80",
+            "ratTalent": "70",
+            "ratDiscipline": "77",
+            "ratPot": "68"
+          }
+        },        
+        {
+          "name": "Moore",
+          "abbreviation": "MOOR",
+          "prestige": "69",
+          "state": "Oklahoma",
+          "rival": "MUST",
+          "headCoach": 
+          {
+            "name": "Jack Fisher",
+            "age": "53",
+            "startYear": "2019",
+            "contractYear": "1",
+            "contractLength": "5",
+            "homeState": "Arizona",
+            "baselinePrestige": "67",
+            "cumulativePrestige": "9",
+            "ratOvr": "76",
+            "ratDef": "74",
+            "ratOff": "71",
+            "ratTalent": "70",
+            "ratDiscipline": "70",
+            "ratPot": "65"
+          }
+        }
+      ]
+    },    
+    {
+      "confName": "6A-E",
+      "confFullName": "6A East",
+      "confPrestige": "88",
+      "confTeams": 
+      [        
+        {
+          "name": "Jenks",
+          "abbreviation": "JNKS",
+          "prestige": "87",
+          "state": "Oklahoma",
+          "rival": "UNIN",
+          "headCoach": 
+          {
+            "name": "Jim Upton",
+            "age": "55",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Ohio",
+            "baselinePrestige": "89",
+            "cumulativePrestige": "2",
+            "ratOvr": "86",
+            "ratDef": "85",
+            "ratOff": "81",
+            "ratTalent": "80",
+            "ratDiscipline": "85",
+            "ratPot": "70"
+          }
+        },        
+        {
+          "name": "Union",
+          "abbreviation": "UNIN",
+          "prestige": "85",
+          "state": "Oklahoma",
+          "rival": "JNKS",
+          "headCoach": 
+          {
+            "name": "Ryan Clark",
+            "age": "40",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "4",
+            "homeState": "New Hampshire",
+            "baselinePrestige": "83",
+            "cumulativePrestige": "5",
+            "ratOvr": "81",
+            "ratDef": "82",
+            "ratOff": "83",
+            "ratTalent": "77",
+            "ratDiscipline": "82",
+            "ratPot": "75"
+          }
+        },        
+        {
+          "name": "Broken Arrow",
+          "abbreviation": "BA",
+          "prestige": "81",
+          "state": "Oklahoma",
+          "rival": "OWASO",
+          "headCoach": 
+          {
+            "name": "Mark Tummely",
+            "age": "63",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "4",
+            "homeState": "Texas",
+            "baselinePrestige": "79",
+            "cumulativePrestige": "4",
+            "ratOvr": "84",
+            "ratDef": "83",
+            "ratOff": "80",
+            "ratTalent": "78",
+            "ratDiscipline": "82",
+            "ratPot": "88"
+          }
+        },        
+        {
+          "name": "Owasso",
+          "abbreviation": "OWASO",
+          "prestige": "78",
+          "state": "Oklahoma",
+          "rival": "BA",
+          "headCoach": 
+          {
+            "name": "Bill Blankenship",
+            "age": "47",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "3",
+            "homeState": "Pennsylvania",
+            "baselinePrestige": "75",
+            "cumulativePrestige": "40",
+            "ratOvr": "86",
+            "ratDef": "81",
+            "ratOff": "78",
+            "ratTalent": "86",
+            "ratDiscipline": "87",
+            "ratPot": "76"
+          }
+        },        
+        {
+          "name": "Enid",
+          "abbreviation": "ENID",
+          "prestige": "46",
+          "state": "Oklahoma",
+          "rival": "MUSK",
+          "headCoach": 
+          {
+            "name": "Paul Jackson",
+            "age": "53",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Oregon",
+            "baselinePrestige": "60",
+            "cumulativePrestige": "8",
+            "ratOvr": "64",
+            "ratDef": "63",
+            "ratOff": "61",
+            "ratTalent": "64",
+            "ratDiscipline": "62",
+            "ratPot": "63"
+          }
+        },        
+        {
+          "name": "Bixby",
+          "abbreviation": "BIX",
+          "prestige": "80",
+          "state": "Oklahoma",
+          "rival": "BTW",
+          "headCoach": 
+          {
+            "name": "Loren Montgomery",
+            "age": "38",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Minnesota",
+            "baselinePrestige": "78",
+            "cumulativePrestige": "5",
+            "ratOvr": "86",
+            "ratDef": "79",
+            "ratOff": "86",
+            "ratTalent": "88",
+            "ratDiscipline": "80",
+            "ratPot": "89"
+          }
+        },        
+        {
+          "name": "Booker T",
+          "abbreviation": "BTW",
+          "prestige": "77",
+          "state": "Oklahoma",
+          "rival": "BIX",
+          "headCoach": 
+          {
+            "name": "Kirk Ferentz",
+            "age": "55",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Maine",
+            "baselinePrestige": "70",
+            "cumulativePrestige": "10",
+            "ratOvr": "75",
+            "ratDef": "85",
+            "ratOff": "77",
+            "ratTalent": "81",
+            "ratDiscipline": "75",
+            "ratPot": "73"
+          }
+        },        
+        {
+          "name": "Muskogee",
+          "abbreviation": "MUSK",
+          "prestige": "68",
+          "state": "Oklahoma",
+          "rival": "ENID",
+          "headCoach": 
+          {
+            "name": "Scott Brady",
+            "age": "44",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Nebraska",
+            "baselinePrestige": "64",
+            "cumulativePrestige": "15",
+            "ratOvr": "72",
+            "ratDef": "78",
+            "ratOff": "70",
+            "ratTalent": "68",
+            "ratDiscipline": "55",
+            "ratPot": "69"
+          }
+        },        
+        {
+          "name": "Sapulpa",
+          "abbreviation": "SAP",
+          "prestige": "65",
+          "state": "Oklahoma",
+          "rival": "SS",
+          "headCoach": 
+          {
+            "name": "Robert Borgstadt",
+            "age": "48",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Kentucky",
+            "baselinePrestige": "77",
+            "cumulativePrestige": "10",
+            "ratOvr": "80",
+            "ratDef": "87",
+            "ratOff": "76",
+            "ratTalent": "82",
+            "ratDiscipline": "83",
+            "ratPot": "83"
+          }
+        },        
+        {
+          "name": "Sand Springs",
+          "abbreviation": "SS",
+          "prestige": "67",
+          "state": "Oklahoma",
+          "rival": "SAP",
+          "headCoach": 
+          {
+            "name": "Dustin Kinard",
+            "age": "49",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Illinois",
+            "baselinePrestige": "80",
+            "cumulativePrestige": "10",
+            "ratOvr": "78",
+            "ratDef": "77",
+            "ratOff": "83",
+            "ratTalent": "79",
+            "ratDiscipline": "83",
+            "ratPot": "78"
+          }
+        }
+      ]
+    },    
+    {
+      "confName": "5A-W",
+      "confFullName": "5A West",
+      "confPrestige": "72",
+      "confTeams": 
+      [        
+        {
+          "name": "Del City",
+          "abbreviation": "DEL",
+          "prestige": "63",
+          "state": "Oklahoma",
+          "rival": "CHOC",
+          "headCoach": 
+          {
+            "name": "Linc Wilson",
+            "age": "36",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "5",
+            "homeState": "Arizona",
+            "baselinePrestige": "70",
+            "cumulativePrestige": "7",
+            "ratOvr": "67",
+            "ratDef": "66",
+            "ratOff": "65",
+            "ratTalent": "60",
+            "ratDiscipline": "55",
+            "ratPot": "75"
+          }
+        },        
+        {
+          "name": "Choctaw",
+          "abbreviation": "CHOC",
+          "prestige": "65",
+          "state": "Oklahoma",
+          "rival": "DEL",
+          "headCoach": 
+          {
+            "name": "Tom Hilspor",
+            "age": "44",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "3",
+            "homeState": "Ohio",
+            "baselinePrestige": "70",
+            "cumulativePrestige": "10",
+            "ratOvr": "67",
+            "ratDef": "65",
+            "ratOff": "75",
+            "ratTalent": "70",
+            "ratDiscipline": "72",
+            "ratPot": "75"
+          }
+        },        
+        {
+          "name": "Deer Creek",
+          "abbreviation": "DEER",
+          "prestige": "63",
+          "state": "Oklahoma",
+          "rival": "EDNO",
+          "headCoach": 
+          {
+            "name": "Neal Brown",
+            "age": "39",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Kentucky",
+            "baselinePrestige": "74",
+            "cumulativePrestige": "0",
+            "ratOvr": "70",
+            "ratDef": "71",
+            "ratOff": "70",
+            "ratTalent": "64",
+            "ratDiscipline": "73",
+            "ratPot": "74"
+          }
+        },        
+        {
+          "name": "Edmond North",
+          "abbreviation": "EDNO",
+          "prestige": "65",
+          "state": "Oklahoma",
+          "rival": "DEER",
+          "headCoach": 
+          {
+            "name": "Gary Wilkerson",
+            "age": "59",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Kansas",
+            "baselinePrestige": "75",
+            "cumulativePrestige": "40",
+            "ratOvr": "70",
+            "ratDef": "70",
+            "ratOff": "67",
+            "ratTalent": "70",
+            "ratDiscipline": "72",
+            "ratPot": "60"
+          }
+        },        
+        {
+          "name": "Midwest City",
+          "abbreviation": "MCITY",
+          "prestige": "71",
+          "state": "Oklahoma",
+          "rival": "LAWT",
+          "headCoach": 
+          {
+            "name": "Matt Brook",
+            "age": "44",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "4",
+            "homeState": "New York",
+            "baselinePrestige": "75",
+            "cumulativePrestige": "0",
+            "ratOvr": "70",
+            "ratDef": "75",
+            "ratOff": "63",
+            "ratTalent": "65",
+            "ratDiscipline": "65",
+            "ratPot": "78"
+          }
+        },        
+        {
+          "name": "Lawton",
+          "abbreviation": "LAWT",
+          "prestige": "73",
+          "state": "Oklahoma",
+          "rival": "MCITY",
+          "headCoach": 
+          {
+            "name": "Matt George",
+            "age": "39",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "2",
+            "homeState": "Ohio",
+            "baselinePrestige": "78",
+            "cumulativePrestige": "10",
+            "ratOvr": "70",
+            "ratDef": "76",
+            "ratOff": "70",
+            "ratTalent": "70",
+            "ratDiscipline": "70",
+            "ratPot": "76"
+          }
+        },        
+        {
+          "name": "Stillwater",
+          "abbreviation": "STIL",
+          "prestige": "66",
+          "state": "Oklahoma",
+          "rival": "SHAW",
+          "headCoach": 
+          {
+            "name": "Rick Wells",
+            "age": "46",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "5",
+            "homeState": "South Carolina",
+            "baselinePrestige": "70",
+            "cumulativePrestige": "0",
+            "ratOvr": "68",
+            "ratDef": "68",
+            "ratOff": "71",
+            "ratTalent": "62",
+            "ratDiscipline": "70",
+            "ratPot": "68"
+          }
+        },        
+        {
+          "name": "Putnam West",
+          "abbreviation": "PCW",
+          "prestige": "67",
+          "state": "Oklahoma",
+          "rival": "PUTC",
+          "headCoach": 
+          {
+            "name": "Mike Werker",
+            "age": "52",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Oklahoma",
+            "baselinePrestige": "65",
+            "cumulativePrestige": "60",
+            "ratOvr": "76",
+            "ratDef": "75",
+            "ratOff": "70",
+            "ratTalent": "65",
+            "ratDiscipline": "60",
+            "ratPot": "66"
+          }
+        },        
+        {
+          "name": "Putnam City",
+          "abbreviation": "PUTC",
+          "prestige": "63",
+          "state": "Oklahoma",
+          "rival": "PCW",
+          "headCoach": 
+          {
+            "name": "Chris Overton",
+            "age": "51",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "5",
+            "homeState": "Iowa",
+            "baselinePrestige": "63",
+            "cumulativePrestige": "0",
+            "ratOvr": "62",
+            "ratDef": "62",
+            "ratOff": "69",
+            "ratTalent": "61",
+            "ratDiscipline": "55",
+            "ratPot": "64"
+          }
+        },        
+        {
+          "name": "Shawnee",
+          "abbreviation": "SHAW",
+          "prestige": "62",
+          "state": "Oklahoma",
+          "rival": "STIL",
+          "headCoach": 
+          {
+            "name": "Les Recker",
+            "age": "55",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Ohio",
+            "baselinePrestige": "54",
+            "cumulativePrestige": "15",
+            "ratOvr": "70",
+            "ratDef": "70",
+            "ratOff": "67",
+            "ratTalent": "61",
+            "ratDiscipline": "70",
+            "ratPot": "69"
+          }
+        }
+      ]
+    },    
+    {
+      "confName": "5A-E",
+      "confFullName": "5A East",
+      "confPrestige": "68",
+      "confTeams": 
+      [        
+        {
+          "name": "Ponca City",
+          "abbreviation": "PONC",
+          "prestige": "45",
+          "state": "Oklahoma",
+          "rival": "BART",
+          "headCoach": 
+          {
+            "name": "JACK JACKERSON",
+            "age": "49",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Alabama",
+            "baselinePrestige": "70",
+            "cumulativePrestige": "50",
+            "ratOvr": "56",
+            "ratDef": "61",
+            "ratOff": "57",
+            "ratTalent": "57",
+            "ratDiscipline": "68",
+            "ratPot": "72"
+          }
+        },        
+        {
+          "name": "Bartlesville",
+          "abbreviation": "BART",
+          "prestige": "69",
+          "state": "Oklahoma",
+          "rival": "PONC",
+          "headCoach": 
+          {
+            "name": "Pat Narduzzi",
+            "age": "53",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "2",
+            "homeState": "Connecticut",
+            "baselinePrestige": "70",
+            "cumulativePrestige": "15",
+            "ratOvr": "76",
+            "ratDef": "74",
+            "ratOff": "78",
+            "ratTalent": "70",
+            "ratDiscipline": "70",
+            "ratPot": "71"
+          }
+        },        
+        {
+          "name": "Bishop Kelley",
+          "abbreviation": "BK",
+          "prestige": "70",
+          "state": "Oklahoma",
+          "rival": "GLEN",
+          "headCoach": 
+          {
+            "name": "Mark Fuente",
+            "age": "43",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "2",
+            "homeState": "Oklahoma",
+            "baselinePrestige": "72",
+            "cumulativePrestige": "5",
+            "ratOvr": "74",
+            "ratDef": "69",
+            "ratOff": "81",
+            "ratTalent": "74",
+            "ratDiscipline": "81",
+            "ratPot": "70"
+          }
+        },        
+        {
+          "name": "Tulsa Edison",
+          "abbreviation": "EDIS",
+          "prestige": "57",
+          "state": "Oklahoma",
+          "rival": "HALE",
+          "headCoach": 
+          {
+            "name": "Dave Dickson",
+            "age": "47",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Kansas",
+            "baselinePrestige": "68",
+            "cumulativePrestige": "12",
+            "ratOvr": "61",
+            "ratDef": "68",
+            "ratOff": "68",
+            "ratTalent": "67",
+            "ratDiscipline": "60",
+            "ratPot": "72"
+          }
+        },        
+        {
+          "name": "Glenpool",
+          "abbreviation": "GLEN",
+          "prestige": "64",
+          "state": "Oklahoma",
+          "rival": "BK",
+          "headCoach": 
+          {
+            "name": "Willie Bishop",
+            "age": "43",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "3",
+            "homeState": "Florida",
+            "baselinePrestige": "75",
+            "cumulativePrestige": "0",
+            "ratOvr": "63",
+            "ratDef": "59",
+            "ratOff": "62",
+            "ratTalent": "61",
+            "ratDiscipline": "70",
+            "ratPot": "68"
+          }
+        },        
+        {
+          "name": "Tulsa Hale",
+          "abbreviation": "HALE",
+          "prestige": "25",
+          "state": "Oklahoma",
+          "rival": "EDIS",
+          "headCoach": 
+          {
+            "name": "Rob Diaz",
+            "age": "45",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "5",
+            "homeState": "Nebraska",
+            "baselinePrestige": "70",
+            "cumulativePrestige": "0",
+            "ratOvr": "57",
+            "ratDef": "55",
+            "ratOff": "60",
+            "ratTalent": "49",
+            "ratDiscipline": "32",
+            "ratPot": "78"
+          }
+        },        
+        {
+          "name": "McAlester",
+          "abbreviation": "MCAL",
+          "prestige": "61",
+          "state": "Oklahoma",
+          "rival": "CLAR",
+          "headCoach": 
+          {
+            "name": "Brian Wood",
+            "age": "57",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Georgia",
+            "baselinePrestige": "75",
+            "cumulativePrestige": "35",
+            "ratOvr": "73",
+            "ratDef": "73",
+            "ratOff": "65",
+            "ratTalent": "66",
+            "ratDiscipline": "71",
+            "ratPot": "64"
+          }
+        },        
+        {
+          "name": "Claremore",
+          "abbreviation": "CLAR",
+          "prestige": "60",
+          "state": "Oklahoma",
+          "rival": "MCAL",
+          "headCoach": 
+          {
+            "name": "Steve Rick",
+            "age": "60",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "5",
+            "homeState": "Vermont",
+            "baselinePrestige": "65",
+            "cumulativePrestige": "0",
+            "ratOvr": "70",
+            "ratDef": "70",
+            "ratOff": "67",
+            "ratTalent": "71",
+            "ratDiscipline": "70",
+            "ratPot": "58"
+          }
+        },        
+        {
+          "name": "Collinsville",
+          "abbreviation": "COLV",
+          "prestige": "74",
+          "state": "Oklahoma",
+          "rival": "SKIA",
+          "headCoach": 
+          {
+            "name": "Dino Rickeron",
+            "age": "58",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "2",
+            "homeState": "Hawaii",
+            "baselinePrestige": "65",
+            "cumulativePrestige": "15",
+            "ratOvr": "75",
+            "ratDef": "74",
+            "ratOff": "79",
+            "ratTalent": "79",
+            "ratDiscipline": "77",
+            "ratPot": "64"
+          }
+        },        
+        {
+          "name": "Skiatook",
+          "abbreviation": "SKIA",
+          "prestige": "71",
+          "state": "Oklahoma",
+          "rival": "COLV",
+          "headCoach": 
+          {
+            "name": "Bronco Mende",
+            "age": "53",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "2",
+            "homeState": "Utah",
+            "baselinePrestige": "65",
+            "cumulativePrestige": "20",
+            "ratOvr": "72",
+            "ratDef": "75",
+            "ratOff": "73",
+            "ratTalent": "65",
+            "ratDiscipline": "75",
+            "ratPot": "70"
+          }
+        }
+      ]
+    },    
+    {
+      "confName": "4A-W",
+      "confFullName": "4A West",
+      "confPrestige": "67",
+      "confTeams": 
+      [        
+        {
+          "name": "Carl Albert",
+          "abbreviation": "CARL",
+          "prestige": "73",
+          "state": "Oklahoma",
+          "rival": "GUTH",
+          "headCoach": 
+          {
+            "name": "Brad Petersen",
+            "age": "54",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "California",
+            "baselinePrestige": "75",
+            "cumulativePrestige": "35",
+            "ratOvr": "81",
+            "ratDef": "78",
+            "ratOff": "83",
+            "ratTalent": "85",
+            "ratDiscipline": "77",
+            "ratPot": "64"
+          }
+        },        
+        {
+          "name": "Guthrie",
+          "abbreviation": "GUTH",
+          "prestige": "71",
+          "state": "Oklahoma",
+          "rival": "CARL",
+          "headCoach": 
+          {
+            "name": "Mario Bradford",
+            "age": "48",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "4",
+            "homeState": "Florida",
+            "baselinePrestige": "78",
+            "cumulativePrestige": "3",
+            "ratOvr": "73",
+            "ratDef": "68",
+            "ratOff": "75",
+            "ratTalent": "74",
+            "ratDiscipline": "73",
+            "ratPot": "78"
+          }
+        },        
+        {
+          "name": "Bishop McGuinness",
+          "abbreviation": "BMG",
+          "prestige": "71",
+          "state": "Oklahoma",
+          "rival": "DUNC",
+          "headCoach": 
+          {
+            "name": "David Rocky",
+            "age": "47",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "California",
+            "baselinePrestige": "75",
+            "cumulativePrestige": "20",
+            "ratOvr": "74",
+            "ratDef": "72",
+            "ratOff": "74",
+            "ratTalent": "76",
+            "ratDiscipline": "74",
+            "ratPot": "65"
+          }
+        },        
+        {
+          "name": "Duncan",
+          "abbreviation": "DUNC",
+          "prestige": "69",
+          "state": "Oklahoma",
+          "rival": "BMG",
+          "headCoach": 
+          {
+            "name": "Justin Frucker",
+            "age": "42",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "3",
+            "homeState": "Oregon",
+            "baselinePrestige": "74",
+            "cumulativePrestige": "0",
+            "ratOvr": "70",
+            "ratDef": "75",
+            "ratOff": "68",
+            "ratTalent": "68",
+            "ratDiscipline": "77",
+            "ratPot": "69"
+          }
+        },        
+        {
+          "name": "Piedmont",
+          "abbreviation": "PIED",
+          "prestige": "64",
+          "state": "Oklahoma",
+          "rival": "ARD",
+          "headCoach": 
+          {
+            "name": "Chris Kelly",
+            "age": "55",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "3",
+            "homeState": "New Hampshire",
+            "baselinePrestige": "65",
+            "cumulativePrestige": "2",
+            "ratOvr": "71",
+            "ratDef": "67",
+            "ratOff": "70",
+            "ratTalent": "68",
+            "ratDiscipline": "70",
+            "ratPot": "55"
+          }
+        },        
+        {
+          "name": "Ardmore",
+          "abbreviation": "ARD",
+          "prestige": "64",
+          "state": "Oklahoma",
+          "rival": "PIED",
+          "headCoach": 
+          {
+            "name": "Clay Decker",
+            "age": "47",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "2",
+            "homeState": "Florida",
+            "baselinePrestige": "70",
+            "cumulativePrestige": "0",
+            "ratOvr": "67",
+            "ratDef": "67",
+            "ratOff": "69",
+            "ratTalent": "65",
+            "ratDiscipline": "76",
+            "ratPot": "74"
+          }
+        },        
+        {
+          "name": "Altus",
+          "abbreviation": "ALTS",
+          "prestige": "62",
+          "state": "Oklahoma",
+          "rival": "RENO",
+          "headCoach": 
+          {
+            "name": "Jonathan Smith",
+            "age": "40",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "2",
+            "homeState": "California",
+            "baselinePrestige": "65",
+            "cumulativePrestige": "0",
+            "ratOvr": "72",
+            "ratDef": "68",
+            "ratOff": "75",
+            "ratTalent": "75",
+            "ratDiscipline": "68",
+            "ratPot": "77"
+          }
+        },        
+        {
+          "name": "El Reno",
+          "abbreviation": "RENO",
+          "prestige": "66",
+          "state": "Oklahoma",
+          "rival": "ALTS",
+          "headCoach": 
+          {
+            "name": "Mike Cook",
+            "age": "58",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "California",
+            "baselinePrestige": "65",
+            "cumulativePrestige": "40",
+            "ratOvr": "76",
+            "ratDef": "68",
+            "ratOff": "79",
+            "ratTalent": "68",
+            "ratDiscipline": "79",
+            "ratPot": "65"
+          }
+        },        
+        {
+          "name": "Lawton MacArther",
+          "abbreviation": "LAWM",
+          "prestige": "64",
+          "state": "Oklahoma",
+          "rival": "LAWE",
+          "headCoach": 
+          {
+            "name": "Kyle Whitting",
+            "age": "59",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "California",
+            "baselinePrestige": "70",
+            "cumulativePrestige": "30",
+            "ratOvr": "72",
+            "ratDef": "73",
+            "ratOff": "66",
+            "ratTalent": "72",
+            "ratDiscipline": "76",
+            "ratPot": "61"
+          }
+        },        
+        {
+          "name": "Lawton Eisen",
+          "abbreviation": "LAWE",
+          "prestige": "62",
+          "state": "Oklahoma",
+          "rival": "LAWM",
+          "headCoach": 
+          {
+            "name": "Herm Eds",
+            "age": "65",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "5",
+            "homeState": "New Jersey",
+            "baselinePrestige": "68",
+            "cumulativePrestige": "2",
+            "ratOvr": "73",
+            "ratDef": "76",
+            "ratOff": "69",
+            "ratTalent": "70",
+            "ratDiscipline": "77",
+            "ratPot": "58"
+          }
+        }
+      ]
+    },    
+    {
+      "confName": "4A-E",
+      "confFullName": "4A East",
+      "confPrestige": "57",
+      "confTeams": 
+      [        
+        {
+          "name": "East Central",
+          "abbreviation": "TEC",
+          "prestige": "56",
+          "state": "Oklahoma",
+          "rival": "TMEM",
+          "headCoach": 
+          {
+            "name": "Harold Dotson Sr",
+            "age": "46",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "South Dakota",
+            "baselinePrestige": "70",
+            "cumulativePrestige": "2",
+            "ratOvr": "70",
+            "ratDef": "70",
+            "ratOff": "71",
+            "ratTalent": "70",
+            "ratDiscipline": "77",
+            "ratPot": "75"
+          }
+        },        
+        {
+          "name": "Tulsa Memorial",
+          "abbreviation": "TMEM",
+          "prestige": "53",
+          "state": "Oklahoma",
+          "rival": "TEC",
+          "headCoach": 
+          {
+            "name": "Toby Cimini",
+            "age": "42",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "3",
+            "homeState": "New York",
+            "baselinePrestige": "63",
+            "cumulativePrestige": "0",
+            "ratOvr": "68",
+            "ratDef": "74",
+            "ratOff": "62",
+            "ratTalent": "60",
+            "ratDiscipline": "56",
+            "ratPot": "53"
+          }
+        },        
+        {
+          "name": "Pryor",
+          "abbreviation": "PRY",
+          "prestige": "57",
+          "state": "OKlahoma",
+          "rival": "TQUA",
+          "headCoach": 
+          {
+            "name": "Russell He",
+            "age": "33",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Louisiana",
+            "baselinePrestige": "68",
+            "cumulativePrestige": "0",
+            "ratOvr": "64",
+            "ratDef": "56",
+            "ratOff": "62",
+            "ratTalent": "70",
+            "ratDiscipline": "75",
+            "ratPot": "70"
+          }
+        },        
+        {
+          "name": "Tahlequah",
+          "abbreviation": "TQUA",
+          "prestige": "61",
+          "state": "Oklahoma",
+          "rival": "PRY",
+          "headCoach": 
+          {
+            "name": "Richard Miller",
+            "age": "39",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "4",
+            "homeState": "Nevada",
+            "baselinePrestige": "64",
+            "cumulativePrestige": "0",
+            "ratOvr": "74",
+            "ratDef": "67",
+            "ratOff": "67",
+            "ratTalent": "65",
+            "ratDiscipline": "70",
+            "ratPot": "70"
+          }
+        },        
+        {
+          "name": "Tulsa Rodgers",
+          "abbreviation": "TURG",
+          "prestige": "59",
+          "state": "Oklahoma",
+          "rival": "TLTM",
+          "headCoach": 
+          {
+            "name": "Glen Klems",
+            "age": "34",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "5",
+            "homeState": "New York",
+            "baselinePrestige": "59",
+            "cumulativePrestige": "0",
+            "ratOvr": "64",
+            "ratDef": "73",
+            "ratOff": "63",
+            "ratTalent": "47",
+            "ratDiscipline": "65",
+            "ratPot": "70"
+          }
+        },        
+        {
+          "name": "Oologah",
+          "abbreviation": "OOLA",
+          "prestige": "68",
+          "state": "Oklahoma",
+          "rival": "WAGN",
+          "headCoach": 
+          {
+            "name": "Bria Baston",
+            "age": "37",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Michigan",
+            "baselinePrestige": "61",
+            "cumulativePrestige": "0",
+            "ratOvr": "73",
+            "ratDef": "73",
+            "ratOff": "74",
+            "ratTalent": "72",
+            "ratDiscipline": "77",
+            "ratPot": "70"
+          }
+        },        
+        {
+          "name": "Fort Gibson",
+          "abbreviation": "FORT",
+          "prestige": "65",
+          "state": "Oklahoma",
+          "rival": "SALI",
+          "headCoach": 
+          {
+            "name": "Nick Beggs",
+            "age": "50",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "2",
+            "homeState": "Nevada",
+            "baselinePrestige": "62",
+            "cumulativePrestige": "0",
+            "ratOvr": "73",
+            "ratDef": "67",
+            "ratOff": "64",
+            "ratTalent": "65",
+            "ratDiscipline": "80",
+            "ratPot": "65"
+          }
+        },        
+        {
+          "name": "Wagoner",
+          "abbreviation": "WAGN",
+          "prestige": "68",
+          "state": "Oklahoma",
+          "rival": "OOLA",
+          "headCoach": 
+          {
+            "name": "Curtis Hermann",
+            "age": "35",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Pennsylvania",
+            "baselinePrestige": "59",
+            "cumulativePrestige": "0",
+            "ratOvr": "72",
+            "ratDef": "69",
+            "ratOff": "72",
+            "ratTalent": "69",
+            "ratDiscipline": "69",
+            "ratPot": "70"
+          }
+        },        
+        {
+          "name": "Sallisaw",
+          "abbreviation": "SALI",
+          "prestige": "63",
+          "state": "Oklahoma",
+          "rival": "FORT",
+          "headCoach": 
+          {
+            "name": "Thomas Mens",
+            "age": "42",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "5",
+            "homeState": "South Dakota",
+            "baselinePrestige": "61",
+            "cumulativePrestige": "0",
+            "ratOvr": "67",
+            "ratDef": "58",
+            "ratOff": "70",
+            "ratTalent": "60",
+            "ratDiscipline": "68",
+            "ratPot": "70"
+          }
+        },        
+        {
+          "name": "Tulsa McLain",
+          "abbreviation": "TLML",
+          "prestige": "60",
+          "state": "Oklahoma",
+          "rival": "TURG",
+          "headCoach": 
+          {
+            "name": "Emmanuel Riegel",
+            "age": "41",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "5",
+            "homeState": "Virginia",
+            "baselinePrestige": "60",
+            "cumulativePrestige": "0",
+            "ratOvr": "60",
+            "ratDef": "62",
+            "ratOff": "54",
+            "ratTalent": "58",
+            "ratDiscipline": "75",
+            "ratPot": "68"
+          }
+        }
+      ]
+    },    
+    {
+      "confName": "3A-W",
+      "confFullName": "3A West",
+      "confPrestige": "49",
+      "confTeams": 
+      [        
+        {
+          "name": "Newcastle",
+          "abbreviation": "NEWC",
+          "prestige": "62",
+          "state": "Oklahoma",
+          "rival": "ANAD",
+          "headCoach": 
+          {
+            "name": "Kenyon Chavera",
+            "age": "42",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Indiana",
+            "baselinePrestige": "53",
+            "cumulativePrestige": "0",
+            "ratOvr": "72",
+            "ratDef": "68",
+            "ratOff": "72",
+            "ratTalent": "65",
+            "ratDiscipline": "69",
+            "ratPot": "73"
+          }
+        },        
+        {
+          "name": "Weatherford",
+          "abbreviation": "WEFD",
+          "prestige": "56",
+          "state": "Oklahoma",
+          "rival": "BETH",
+          "headCoach": 
+          {
+            "name": "JC Limardi",
+            "age": "41",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "New Jersey",
+            "baselinePrestige": "49",
+            "cumulativePrestige": "0",
+            "ratOvr": "67",
+            "ratDef": "64",
+            "ratOff": "74",
+            "ratTalent": "64",
+            "ratDiscipline": "57",
+            "ratPot": "73"
+          }
+        },        
+        {
+          "name": "Chickasha",
+          "abbreviation": "CHICK",
+          "prestige": "55",
+          "state": "Oklahoma",
+          "rival": "CUSH",
+          "headCoach": 
+          {
+            "name": "Rick Rhodes",
+            "age": "36",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "4",
+            "homeState": "Texas",
+            "baselinePrestige": "50",
+            "cumulativePrestige": "0",
+            "ratOvr": "57",
+            "ratDef": "62",
+            "ratOff": "63",
+            "ratTalent": "47",
+            "ratDiscipline": "79",
+            "ratPot": "61"
+          }
+        },        
+        {
+          "name": "Anadarko",
+          "abbreviation": "ANAD",
+          "prestige": "69",
+          "state": "Oklahoma",
+          "rival": "NEWC",
+          "headCoach": 
+          {
+            "name": "Lloyd Clark",
+            "age": "46",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Vermont",
+            "baselinePrestige": "45",
+            "cumulativePrestige": "0",
+            "ratOvr": "68",
+            "ratDef": "67",
+            "ratOff": "70",
+            "ratTalent": "59",
+            "ratDiscipline": "71",
+            "ratPot": "70"
+          }
+        },        
+        {
+          "name": "Cushing",
+          "abbreviation": "CUSH",
+          "prestige": "50",
+          "state": "Oklahoma",
+          "rival": "CHICK",
+          "headCoach": 
+          {
+            "name": "Cameron Raetz",
+            "age": "49",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Alaska",
+            "baselinePrestige": "45",
+            "cumulativePrestige": "0",
+            "ratOvr": "59",
+            "ratDef": "69",
+            "ratOff": "72",
+            "ratTalent": "52",
+            "ratDiscipline": "76",
+            "ratPot": "61"
+          }
+        },        
+        {
+          "name": "Tecumseh",
+          "abbreviation": "TCUM",
+          "prestige": "52",
+          "state": "Oklahoma",
+          "rival": "TUTT",
+          "headCoach": 
+          {
+            "name": "Alan Skalka",
+            "age": "41",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "2",
+            "homeState": "Wyoming",
+            "baselinePrestige": "43",
+            "cumulativePrestige": "0",
+            "ratOvr": "61",
+            "ratDef": "69",
+            "ratOff": "58",
+            "ratTalent": "66",
+            "ratDiscipline": "71",
+            "ratPot": "77"
+          }
+        },        
+        {
+          "name": "Tuttle",
+          "abbreviation": "TUTT",
+          "prestige": "50",
+          "state": "Oklahoma",
+          "rival": "TCUM",
+          "headCoach": 
+          {
+            "name": "Kendrick Courson",
+            "age": "39",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Tennessee",
+            "baselinePrestige": "43",
+            "cumulativePrestige": "0",
+            "ratOvr": "62",
+            "ratDef": "68",
+            "ratOff": "70",
+            "ratTalent": "64",
+            "ratDiscipline": "77",
+            "ratPot": "70"
+          }
+        },        
+        {
+          "name": "Bethany",
+          "abbreviation": "BETH",
+          "prestige": "60",
+          "state": "Oklahoma",
+          "rival": "WEFD",
+          "headCoach": 
+          {
+            "name": "Al Eric",
+            "age": "51",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Wisconsin",
+            "baselinePrestige": "40",
+            "cumulativePrestige": "0",
+            "ratOvr": "58",
+            "ratDef": "58",
+            "ratOff": "68",
+            "ratTalent": "48",
+            "ratDiscipline": "78",
+            "ratPot": "70"
+          }
+        },        
+        {
+          "name": "Harrah",
+          "abbreviation": "HARA",
+          "prestige": "52",
+          "state": "Hawaii",
+          "rival": "BLNC",
+          "headCoach": 
+          {
+            "name": "Nick Rolovh",
+            "age": "40",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "5",
+            "homeState": "California",
+            "baselinePrestige": "47",
+            "cumulativePrestige": "0",
+            "ratOvr": "67",
+            "ratDef": "60",
+            "ratOff": "70",
+            "ratTalent": "67",
+            "ratDiscipline": "70",
+            "ratPot": "70"
+          }
+        },        
+        {
+          "name": "Blanchard",
+          "abbreviation": "BLNC",
+          "prestige": "48",
+          "state": "Colorado",
+          "rival": "HARA",
+          "headCoach": 
+          {
+            "name": "Marshall Hodgin",
+            "age": "54",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "5",
+            "homeState": "Pennsylvania",
+            "baselinePrestige": "43",
+            "cumulativePrestige": "0",
+            "ratOvr": "60",
+            "ratDef": "64",
+            "ratOff": "67",
+            "ratTalent": "56",
+            "ratDiscipline": "76",
+            "ratPot": "60"
+          }
+        }
+      ]
+    },    
+    {
+      "confName": "3A-E",
+      "confFullName": "3A East",
+      "confPrestige": "47",
+      "confTeams": 
+      [        
+        {
+          "name": "Grove",
+          "abbreviation": "GROVE",
+          "prestige": "65",
+          "state": "Oklahoma",
+          "rival": "MIA",
+          "headCoach": 
+          {
+            "name": "Alec Codo",
+            "age": "33",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "5",
+            "homeState": "North Dakota",
+            "baselinePrestige": "53",
+            "cumulativePrestige": "10",
+            "ratOvr": "63",
+            "ratDef": "64",
+            "ratOff": "74",
+            "ratTalent": "71",
+            "ratDiscipline": "79",
+            "ratPot": "75"
+          }
+        },        
+        {
+          "name": "Bristow",
+          "abbreviation": "BRIS",
+          "prestige": "50",
+          "state": "Oklahoma",
+          "rival": "CATO",
+          "headCoach": 
+          {
+            "name": "Bennett Note",
+            "age": "46",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Texas",
+            "baselinePrestige": "45",
+            "cumulativePrestige": "0",
+            "ratOvr": "66",
+            "ratDef": "67",
+            "ratOff": "76",
+            "ratTalent": "47",
+            "ratDiscipline": "76",
+            "ratPot": "52"
+          }
+        },        
+        {
+          "name": "Catoosa",
+          "abbreviation": "CATO",
+          "prestige": "54",
+          "state": "Oklahoma",
+          "rival": "BRIS",
+          "headCoach": 
+          {
+            "name": "Jordan Semek",
+            "age": "42",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "North Carolina",
+            "baselinePrestige": "49",
+            "cumulativePrestige": "0",
+            "ratOvr": "80",
+            "ratDef": "62",
+            "ratOff": "72",
+            "ratTalent": "60",
+            "ratDiscipline": "73",
+            "ratPot": "58"
+          }
+        },        
+        {
+          "name": "Miami",
+          "abbreviation": "MIA",
+          "prestige": "47",
+          "state": "Oklahoma",
+          "rival": "GROVE",
+          "headCoach": 
+          {
+            "name": "Justin Brancheau",
+            "age": "53",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "South Carolina",
+            "baselinePrestige": "42",
+            "cumulativePrestige": "0",
+            "ratOvr": "62",
+            "ratDef": "57",
+            "ratOff": "73",
+            "ratTalent": "62",
+            "ratDiscipline": "79",
+            "ratPot": "63"
+          }
+        },        
+        {
+          "name": "Cleveland",
+          "abbreviation": "CLEV",
+          "prestige": "44",
+          "state": "Oklahoma",
+          "rival": "MULD",
+          "headCoach": 
+          {
+            "name": "Denzel Sandigo",
+            "age": "54",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "2",
+            "homeState": "Maine",
+            "baselinePrestige": "43",
+            "cumulativePrestige": "0",
+            "ratOvr": "67",
+            "ratDef": "70",
+            "ratOff": "67",
+            "ratTalent": "57",
+            "ratDiscipline": "75",
+            "ratPot": "68"
+          }
+        },        
+        {
+          "name": "Poteau",
+          "abbreviation": "POTE",
+          "prestige": "49",
+          "state": "Oklahoma",
+          "rival": "HILD",
+          "headCoach": 
+          {
+            "name": "Ernie Biesecker",
+            "age": "54",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "North Carolina",
+            "baselinePrestige": "41",
+            "cumulativePrestige": "0",
+            "ratOvr": "69",
+            "ratDef": "66",
+            "ratOff": "58",
+            "ratTalent": "56",
+            "ratDiscipline": "75",
+            "ratPot": "60"
+          }
+        },        
+        {
+          "name": "Hilldale",
+          "abbreviation": "HILD",
+          "prestige": "48",
+          "state": "Oklahoma",
+          "rival": "POTE",
+          "headCoach": 
+          {
+            "name": "Clinton Yuenger",
+            "age": "55",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "4",
+            "homeState": "Indiana",
+            "baselinePrestige": "40",
+            "cumulativePrestige": "0",
+            "ratOvr": "71",
+            "ratDef": "59",
+            "ratOff": "53",
+            "ratTalent": "53",
+            "ratDiscipline": "82",
+            "ratPot": "60"
+          }
+        },        
+        {
+          "name": "Muldrow",
+          "abbreviation": "MULD",
+          "prestige": "43",
+          "state": "Oklahoma",
+          "rival": "CLEV",
+          "headCoach": 
+          {
+            "name": "Maik James",
+            "age": "44",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "4",
+            "homeState": "Alaska",
+            "baselinePrestige": "40",
+            "cumulativePrestige": "0",
+            "ratOvr": "73",
+            "ratDef": "73",
+            "ratOff": "55",
+            "ratTalent": "56",
+            "ratDiscipline": "73",
+            "ratPot": "68"
+          }
+        },        
+        {
+          "name": "Broken Bow",
+          "abbreviation": "BRKB",
+          "prestige": "42",
+          "state": "Oklahoma",
+          "rival": "SWEL",
+          "headCoach": 
+          {
+            "name": "Darryl Jordan",
+            "age": "32",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Alabama",
+            "baselinePrestige": "40",
+            "cumulativePrestige": "0",
+            "ratOvr": "71",
+            "ratDef": "63",
+            "ratOff": "68",
+            "ratTalent": "59",
+            "ratDiscipline": "73",
+            "ratPot": "60"
+          }
+        },        
+        {
+          "name": "Stillwell",
+          "abbreviation": "SWEL",
+          "prestige": "43",
+          "state": "Oklahoma",
+          "rival": "BRKB",
+          "headCoach": 
+          {
+            "name": "Manuel Federsen",
+            "age": "42",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "4",
+            "homeState": "South Carolina",
+            "baselinePrestige": "41",
+            "cumulativePrestige": "0",
+            "ratOvr": "64",
+            "ratDef": "70",
+            "ratOff": "56",
+            "ratTalent": "57",
+            "ratDiscipline": "76",
+            "ratPot": "51"
+          }
+        }
+      ]
+    },    
+    {
+      "confName": "3A-W",
+      "confFullName": "3A West",
+      "confPrestige": "50",
+      "confTeams": 
+      [        
+        {
+          "name": "Mannford",
+          "abbreviation": "MANF",
+          "prestige": "42",
+          "state": "Oklahoma",
+          "rival": "BERY",
+          "headCoach": 
+          {
+            "name": "Armando Mitkowski",
+            "age": "36",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "5",
+            "homeState": "Maryland",
+            "baselinePrestige": "50",
+            "cumulativePrestige": "5",
+            "ratOvr": "68",
+            "ratDef": "65",
+            "ratOff": "67",
+            "ratTalent": "68",
+            "ratDiscipline": "79",
+            "ratPot": "80"
+          }
+        },        
+        {
+          "name": "Lincoln Christian",
+          "abbreviation": "LNCH",
+          "prestige": "65",
+          "state": "Oklahoma",
+          "rival": "CASC",
+          "headCoach": 
+          {
+            "name": "Dwight Finkler",
+            "age": "44",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "3",
+            "homeState": "Wyoming",
+            "baselinePrestige": "47",
+            "cumulativePrestige": "2",
+            "ratOvr": "81",
+            "ratDef": "62",
+            "ratOff": "75",
+            "ratTalent": "64",
+            "ratDiscipline": "77",
+            "ratPot": "60"
+          }
+        },        
+        {
+          "name": "Cascia Hall",
+          "abbreviation": "CASC",
+          "prestige": "63",
+          "state": "Oklahoma",
+          "rival": "LNCH",
+          "headCoach": 
+          {
+            "name": "Lane Write",
+            "age": "44",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "5",
+            "homeState": "Nebraska",
+            "baselinePrestige": "43",
+            "cumulativePrestige": "10",
+            "ratOvr": "72",
+            "ratDef": "68",
+            "ratOff": "84",
+            "ratTalent": "71",
+            "ratDiscipline": "77",
+            "ratPot": "84"
+          }
+        },        
+        {
+          "name": "Berryhill",
+          "abbreviation": "BERY",
+          "prestige": "58",
+          "state": "Oklahoma",
+          "rival": "MANF",
+          "headCoach": 
+          {
+            "name": "Jasper Davito",
+            "age": "44",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Wisconsin",
+            "baselinePrestige": "44",
+            "cumulativePrestige": "0",
+            "ratOvr": "73",
+            "ratDef": "63",
+            "ratOff": "62",
+            "ratTalent": "58",
+            "ratDiscipline": "75",
+            "ratPot": "57"
+          }
+        },        
+        {
+          "name": "Locust Grove",
+          "abbreviation": "LCGR",
+          "prestige": "62",
+          "state": "Oklahoma",
+          "rival": "VERD",
+          "headCoach": 
+          {
+            "name": "Braden Rehbein",
+            "age": "43",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Alabama",
+            "baselinePrestige": "46",
+            "cumulativePrestige": "1",
+            "ratOvr": "70",
+            "ratDef": "64",
+            "ratOff": "62",
+            "ratTalent": "53",
+            "ratDiscipline": "70",
+            "ratPot": "60"
+          }
+        },        
+        {
+          "name": "Checotah",
+          "abbreviation": "CHCT",
+          "prestige": "49",
+          "state": "Oklahoma",
+          "rival": "OKML",
+          "headCoach": 
+          {
+            "name": "Davis Kostelecky",
+            "age": "52",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Montana",
+            "baselinePrestige": "44",
+            "cumulativePrestige": "0",
+            "ratOvr": "58",
+            "ratDef": "61",
+            "ratOff": "69",
+            "ratTalent": "56",
+            "ratDiscipline": "69",
+            "ratPot": "61"
+          }
+        },        
+        {
+          "name": "Okmulgee",
+          "abbreviation": "OKML",
+          "prestige": "54",
+          "state": "Oklahoma",
+          "rival": "CHCT",
+          "headCoach": 
+          {
+            "name": "Shawn Lovaas",
+            "age": "30",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Iowa",
+            "baselinePrestige": "45",
+            "cumulativePrestige": "0",
+            "ratOvr": "65",
+            "ratDef": "53",
+            "ratOff": "60",
+            "ratTalent": "58",
+            "ratDiscipline": "55",
+            "ratPot": "54"
+          }
+        },        
+        {
+          "name": "Seminole",
+          "abbreviation": "SEMI",
+          "prestige": "47",
+          "state": "Oklahoma",
+          "rival": "VINI",
+          "headCoach": 
+          {
+            "name": "Jermaine Brak",
+            "age": "52",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "South Carolina",
+            "baselinePrestige": "42",
+            "cumulativePrestige": "0",
+            "ratOvr": "71",
+            "ratDef": "59",
+            "ratOff": "55",
+            "ratTalent": "59",
+            "ratDiscipline": "77",
+            "ratPot": "54"
+          }
+        },        
+        {
+          "name": "Vinita",
+          "abbreviation": "VINI",
+          "prestige": "48",
+          "state": "Oklahoma",
+          "rival": "SEMI",
+          "headCoach": 
+          {
+            "name": "Titus Cron",
+            "age": "38",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Michigan",
+            "baselinePrestige": "43",
+            "cumulativePrestige": "0",
+            "ratOvr": "63",
+            "ratDef": "58",
+            "ratOff": "54",
+            "ratTalent": "54",
+            "ratDiscipline": "68",
+            "ratPot": "60"
+          }
+        },        
+        {
+          "name": "Verdigris",
+          "abbreviation": "VERD",
+          "prestige": "53",
+          "state": "Louisiana",
+          "rival": "LCGR",
+          "headCoach": 
+          {
+            "name": "Dorian Kindall",
+            "age": "50",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Alabama",
+            "baselinePrestige": "48",
+            "cumulativePrestige": "0",
+            "ratOvr": "70",
+            "ratDef": "55",
+            "ratOff": "60",
+            "ratTalent": "60",
+            "ratDiscipline": "71",
+            "ratPot": "60"
+          }
+        }
+      ]
+    },    
+    {
+      "confName": "2A-E",
+      "confFullName": "2A East",
+      "confPrestige": "46",
+      "confTeams": 
+      [        
+        {
+          "name": "Heritage Hall",
+          "abbreviation": "HH",
+          "prestige": "67",
+          "state": "Oklahoma",
+          "rival": "MOSM",
+          "headCoach": 
+          {
+            "name": "Guy Scroggin",
+            "age": "36",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Louisiana",
+            "baselinePrestige": "45",
+            "cumulativePrestige": "0",
+            "ratOvr": "75",
+            "ratDef": "59",
+            "ratOff": "78",
+            "ratTalent": "61",
+            "ratDiscipline": "75",
+            "ratPot": "59"
+          }
+        },        
+        {
+          "name": "Mount St Mary",
+          "abbreviation": "MOSM",
+          "prestige": "57",
+          "state": "Oklahoma",
+          "rival": "HH",
+          "headCoach": 
+          {
+            "name": "DJ Oare",
+            "age": "57",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Texas",
+            "baselinePrestige": "40",
+            "cumulativePrestige": "0",
+            "ratOvr": "70",
+            "ratDef": "52",
+            "ratOff": "58",
+            "ratTalent": "60",
+            "ratDiscipline": "78",
+            "ratPot": "60"
+          }
+        },        
+        {
+          "name": "John Marshal",
+          "abbreviation": "JMAR",
+          "prestige": "52",
+          "state": "Oklahoma",
+          "rival": "DOUG",
+          "headCoach": 
+          {
+            "name": "Vaughn Sherwood",
+            "age": "41",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "California",
+            "baselinePrestige": "37",
+            "cumulativePrestige": "0",
+            "ratOvr": "60",
+            "ratDef": "59",
+            "ratOff": "55",
+            "ratTalent": "49",
+            "ratDiscipline": "69",
+            "ratPot": "55"
+          }
+        },        
+        {
+          "name": "Kingfisher",
+          "abbreviation": "KING",
+          "prestige": "53",
+          "state": "Oklahoma",
+          "rival": "MARL",
+          "headCoach": 
+          {
+            "name": "Brendan Musshorn",
+            "age": "49",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Minnesota",
+            "baselinePrestige": "38",
+            "cumulativePrestige": "0",
+            "ratOvr": "74",
+            "ratDef": "58",
+            "ratOff": "60",
+            "ratTalent": "59",
+            "ratDiscipline": "91",
+            "ratPot": "53"
+          }
+        },        
+        {
+          "name": "Blackwell",
+          "abbreviation": "BKWL",
+          "prestige": "39",
+          "state": "Oklahoma",
+          "rival": "SFLR",
+          "headCoach": 
+          {
+            "name": "Jim McElwain",
+            "age": "57",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Maine",
+            "baselinePrestige": "35",
+            "cumulativePrestige": "0",
+            "ratOvr": "63",
+            "ratDef": "57",
+            "ratOff": "55",
+            "ratTalent": "68",
+            "ratDiscipline": "70",
+            "ratPot": "75"
+          }
+        },        
+        {
+          "name": "Douglass",
+          "abbreviation": "DOUG",
+          "prestige": "57",
+          "state": "Oklahoma",
+          "rival": "JMAR",
+          "headCoach": 
+          {
+            "name": "Zachary Burchfield",
+            "age": "44",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Michigan",
+            "baselinePrestige": "44",
+            "cumulativePrestige": "0",
+            "ratOvr": "71",
+            "ratDef": "57",
+            "ratOff": "53",
+            "ratTalent": "50",
+            "ratDiscipline": "79",
+            "ratPot": "65"
+          }
+        },        
+        {
+          "name": "Marlow",
+          "abbreviation": "MARL",
+          "prestige": "45",
+          "state": "Oklahoma",
+          "rival": "KING",
+          "headCoach": 
+          {
+            "name": "Tim Lester",
+            "age": "42",
+            "startYear": "2019",
+            "contractYear": "2",
+            "contractLength": "7",
+            "homeState": "Massachusetts",
+            "baselinePrestige": "37",
+            "cumulativePrestige": "0",
+            "ratOvr": "62",
+            "ratDef": "51",
+            "ratOff": "60",
+            "ratTalent": "55",
+            "ratDiscipline": "69",
+            "ratPot": "80"
+          }
+        },        
+        {
+          "name": "Purcell",
+          "abbreviation": "PCELL",
+          "prestige": "41",
+          "state": "Oklahoma",
+          "rival": "PV",
+          "headCoach": 
+          {
+            "name": "Grant Constant",
+            "age": "56",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Kansas",
+            "baselinePrestige": "36",
+            "cumulativePrestige": "0",
+            "ratOvr": "74",
+            "ratDef": "50",
+            "ratOff": "56",
+            "ratTalent": "54",
+            "ratDiscipline": "88",
+            "ratPot": "60"
+          }
+        },        
+        {
+          "name": "Sulpher",
+          "abbreviation": "SLFR",
+          "prestige": "40",
+          "state": "Oklahoma",
+          "rival": "BKWL",
+          "headCoach": 
+          {
+            "name": "Charles Leigh",
+            "age": "35",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Georgia",
+            "baselinePrestige": "35",
+            "cumulativePrestige": "0",
+            "ratOvr": "70",
+            "ratDef": "50",
+            "ratOff": "53",
+            "ratTalent": "59",
+            "ratDiscipline": "83",
+            "ratPot": "62"
+          }
+        },        
+        {
+          "name": "Pauls Valley",
+          "abbreviation": "PV",
+          "prestige": "43",
+          "state": "Oklahoma",
+          "rival": "PCELL",
+          "headCoach": 
+          {
+            "name": "Jeremy Venier",
+            "age": "43",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "North Carolina",
+            "baselinePrestige": "40",
+            "cumulativePrestige": "0",
+            "ratOvr": "70",
+            "ratDef": "55",
+            "ratOff": "54",
+            "ratTalent": "58",
+            "ratDiscipline": "82",
+            "ratPot": "64"
+          }
+        }
+      ]
+    },    
+    {
+      "confName": "2A-W",
+      "confFullName": "2A West",
+      "confPrestige": "35",
+      "confTeams": 
+      [        
+        {
+          "name": "Inola",
+          "abbreviation": "INOL",
+          "prestige": "52",
+          "state": "Oklahoma",
+          "rival": "JAY",
+          "headCoach": 
+          {
+            "name": "Hootie Santiesteban",
+            "age": "48",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Montana",
+            "baselinePrestige": "23",
+            "cumulativePrestige": "0",
+            "ratOvr": "73",
+            "ratDef": "75",
+            "ratOff": "73",
+            "ratTalent": "44",
+            "ratDiscipline": "78",
+            "ratPot": "73"
+          }
+        },        
+        {
+          "name": "Jay",
+          "abbreviation": "JAY",
+          "prestige": "53",
+          "state": "Oklahoma",
+          "rival": "INOL",
+          "headCoach": 
+          {
+            "name": "Ben Dover",
+            "age": "34",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "West Virginia",
+            "baselinePrestige": "24",
+            "cumulativePrestige": "0",
+            "ratOvr": "66",
+            "ratDef": "67",
+            "ratOff": "60",
+            "ratTalent": "66",
+            "ratDiscipline": "75",
+            "ratPot": "76"
+          }
+        },        
+        {
+          "name": "Centennial",
+          "abbreviation": "CNTL",
+          "prestige": "50",
+          "state": "Oklahoma",
+          "rival": "DAVS",
+          "headCoach": 
+          {
+            "name": "Elliott Sedlack",
+            "age": "37",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Idaho",
+            "baselinePrestige": "20",
+            "cumulativePrestige": "0",
+            "ratOvr": "67",
+            "ratDef": "67",
+            "ratOff": "64",
+            "ratTalent": "46",
+            "ratDiscipline": "68",
+            "ratPot": "78"
+          }
+        },        
+        {
+          "name": "OK Christian",
+          "abbreviation": "OCS",
+          "prestige": "41",
+          "state": "Oklahoma",
+          "rival": "CC",
+          "headCoach": 
+          {
+            "name": "Jesus",
+            "age": "46",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Connecticut",
+            "baselinePrestige": "25",
+            "cumulativePrestige": "0",
+            "ratOvr": "60",
+            "ratDef": "63",
+            "ratOff": "59",
+            "ratTalent": "57",
+            "ratDiscipline": "99",
+            "ratPot": "72"
+          }
+        },        
+        {
+          "name": "Luther",
+          "abbreviation": "LUTH",
+          "prestige": "42",
+          "state": "Oklahoma",
+          "rival": "TISH",
+          "headCoach": 
+          {
+            "name": "Lance Eclarinal",
+            "age": "33",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Oregon",
+            "baselinePrestige": "26",
+            "cumulativePrestige": "0",
+            "ratOvr": "68",
+            "ratDef": "74",
+            "ratOff": "55",
+            "ratTalent": "60",
+            "ratDiscipline": "72",
+            "ratPot": "76"
+          }
+        },        
+        {
+          "name": "Millwood",
+          "abbreviation": "WOOD",
+          "prestige": "61",
+          "state": "Oklahoma",
+          "rival": "WASH",
+          "headCoach": 
+          {
+            "name": "Roy Hedden",
+            "age": "55",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Texas",
+            "baselinePrestige": "20",
+            "cumulativePrestige": "0",
+            "ratOvr": "70",
+            "ratDef": "67",
+            "ratOff": "73",
+            "ratTalent": "62",
+            "ratDiscipline": "75",
+            "ratPot": "72"
+          }
+        },        
+        {
+          "name": "Washington",
+          "abbreviation": "WASH",
+          "prestige": "59",
+          "state": "Oklahoma",
+          "rival": "WOOD",
+          "headCoach": 
+          {
+            "name": "Sean Gueirra",
+            "age": "21",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "4",
+            "homeState": "Oklahoma",
+            "baselinePrestige": "23",
+            "cumulativePrestige": "0",
+            "ratOvr": "30",
+            "ratDef": "30",
+            "ratOff": "30",
+            "ratTalent": "40",
+            "ratDiscipline": "15",
+            "ratPot": "80"
+          }
+        },        
+        {
+          "name": "Davis",
+          "abbreviation": "DAVS",
+          "prestige": "58",
+          "state": "Oklahoma",
+          "rival": "CNTL",
+          "headCoach": 
+          {
+            "name": "Vinnie Difebbo",
+            "age": "32",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Alaska",
+            "baselinePrestige": "20",
+            "cumulativePrestige": "0",
+            "ratOvr": "63",
+            "ratDef": "59",
+            "ratOff": "63",
+            "ratTalent": "55",
+            "ratDiscipline": "80",
+            "ratPot": "76"
+          }
+        },        
+        {
+          "name": "Community Christian",
+          "abbreviation": "CC",
+          "prestige": "34",
+          "state": "Oklahoma",
+          "rival": "OCS",
+          "headCoach": 
+          {
+            "name": "Andrew Jackson",
+            "age": "21",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Oklahoma",
+            "baselinePrestige": "20",
+            "cumulativePrestige": "0",
+            "ratOvr": "50",
+            "ratDef": "50",
+            "ratOff": "50",
+            "ratTalent": "95",
+            "ratDiscipline": "80",
+            "ratPot": "85"
+          }
+        },        
+        {
+          "name": "Tishimingo",
+          "abbreviation": "TISH",
+          "prestige": "32",
+          "state": "Oklahoma",
+          "rival": "LUTH",
+          "headCoach": 
+          {
+            "name": "Crack Head",
+            "age": "21",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Oklahoma",
+            "baselinePrestige": "20",
+            "cumulativePrestige": "0",
+            "ratOvr": "50",
+            "ratDef": "50",
+            "ratOff": "50",
+            "ratTalent": "15",
+            "ratDiscipline": "45",
+            "ratPot": "55"
+          }
+        }
+      ]
+    },    
+    {
+      "confName": "2A-E",
+      "confFullName": "2A East",
+      "confPrestige": "25",
+      "confTeams": 
+      [        
+        {
+          "name": "Victory Christ",
+          "abbreviation": "VICC",
+          "prestige": "52",
+          "state": "Oklahoma",
+          "rival": "SEQC",
+          "headCoach": 
+          {
+            "name": "Matt Alexander",
+            "age": "35",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Iowa",
+            "baselinePrestige": "20",
+            "cumulativePrestige": "0",
+            "ratOvr": "72",
+            "ratDef": "70",
+            "ratOff": "58",
+            "ratTalent": "50",
+            "ratDiscipline": "73",
+            "ratPot": "66"
+          }
+        },        
+        {
+          "name": "Metro Christian",
+          "abbreviation": "METC",
+          "prestige": "54",
+          "state": "Oklahoma",
+          "rival": "HOLL",
+          "headCoach": 
+          {
+            "name": "Leonard Calica",
+            "age": "38",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Nevada",
+            "baselinePrestige": "20",
+            "cumulativePrestige": "0",
+            "ratOvr": "66",
+            "ratDef": "47",
+            "ratOff": "43",
+            "ratTalent": "42",
+            "ratDiscipline": "72",
+            "ratPot": "70"
+          }
+        },        
+        {
+          "name": "Holland Hall",
+          "abbreviation": "HOLL",
+          "prestige": "57",
+          "state": "Oklahoma",
+          "rival": "METC",
+          "headCoach": 
+          {
+            "name": "Ali Beechum",
+            "age": "31",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Indiana",
+            "baselinePrestige": "20",
+            "cumulativePrestige": "0",
+            "ratOvr": "75",
+            "ratDef": "46",
+            "ratOff": "43",
+            "ratTalent": "47",
+            "ratDiscipline": "75",
+            "ratPot": "71"
+          }
+        },        
+        {
+          "name": "Prue",
+          "abbreviation": "PRUE",
+          "prestige": "24",
+          "state": "Oklahoma",
+          "rival": "PAGE",
+          "headCoach": 
+          {
+            "name": "Andrew Biggs",
+            "age": "30",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Nevada",
+            "baselinePrestige": "20",
+            "cumulativePrestige": "0",
+            "ratOvr": "78",
+            "ratDef": "50",
+            "ratOff": "43",
+            "ratTalent": "48",
+            "ratDiscipline": "94",
+            "ratPot": "74"
+          }
+        },        
+        {
+          "name": "Page Academy",
+          "abbreviation": "PAGE",
+          "prestige": "25",
+          "state": "Oklahoma",
+          "rival": "PRUE",
+          "headCoach": 
+          {
+            "name": "Robert Craft",
+            "age": "47",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Iowa",
+            "baselinePrestige": "20",
+            "cumulativePrestige": "0",
+            "ratOvr": "58",
+            "ratDef": "50",
+            "ratOff": "47",
+            "ratTalent": "47",
+            "ratDiscipline": "69",
+            "ratPot": "89"
+          }
+        },        
+        {
+          "name": "Eufaula",
+          "abbreviation": "EUFA",
+          "prestige": "34",
+          "state": "Oklahoma",
+          "rival": "SNA",
+          "headCoach": 
+          {
+            "name": "Ray Charles",
+            "age": "36",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "New Mexico",
+            "baselinePrestige": "20",
+            "cumulativePrestige": "0",
+            "ratOvr": "65",
+            "ratDef": "46",
+            "ratOff": "43",
+            "ratTalent": "72",
+            "ratDiscipline": "69",
+            "ratPot": "90"
+          }
+        },        
+        {
+          "name": "Salina",
+          "abbreviation": "SNA",
+          "prestige": "29",
+          "state": "Oklahoma",
+          "rival": "EUFA",
+          "headCoach": 
+          {
+            "name": "Donte Puna",
+            "age": "42",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Utah",
+            "baselinePrestige": "20",
+            "cumulativePrestige": "0",
+            "ratOvr": "58",
+            "ratDef": "59",
+            "ratOff": "55",
+            "ratTalent": "60",
+            "ratDiscipline": "75",
+            "ratPot": "66"
+          }
+        },        
+        {
+          "name": "Seq Claremore",
+          "abbreviation": "SEQC",
+          "prestige": "39",
+          "state": "Oklahoma",
+          "rival": "VICC",
+          "headCoach": 
+          {
+            "name": "Bailey Northcott",
+            "age": "30",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Arizona",
+            "baselinePrestige": "20",
+            "cumulativePrestige": "0",
+            "ratOvr": "59",
+            "ratDef": "46",
+            "ratOff": "40",
+            "ratTalent": "48",
+            "ratDiscipline": "74",
+            "ratPot": "78"
+          }
+        },        
+        {
+          "name": "Tulsa Webster",
+          "abbreviation": "TWEB",
+          "prestige": "37",
+          "state": "Oklahoma",
+          "rival": "TTECH",
+          "headCoach": 
+          {
+            "name": "Kurt Laza",
+            "age": "33",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Vermont",
+            "baselinePrestige": "20",
+            "cumulativePrestige": "0",
+            "ratOvr": "66",
+            "ratDef": "47",
+            "ratOff": "41",
+            "ratTalent": "48",
+            "ratDiscipline": "89",
+            "ratPot": "76"
+          }
+        },        
+        {
+          "name": "Tulsa Tech",
+          "abbreviation": "TTECH",
+          "prestige": "41",
+          "state": "Oklahoma",
+          "rival": "TWEB",
+          "headCoach": 
+          {
+            "name": "Stephen Biggs",
+            "age": "35",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Nebraska",
+            "baselinePrestige": "20",
+            "cumulativePrestige": "0",
+            "ratOvr": "65",
+            "ratDef": "48",
+            "ratOff": "40",
+            "ratTalent": "49",
+            "ratDiscipline": "86",
+            "ratPot": "83"
+          }
+        }
+      ]
+    }
+  ]
+}
