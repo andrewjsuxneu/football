@@ -2025,8 +2025,8 @@
       ]
     },    
     {
-      "confName": "3W",
-      "confFullName": "3A West",
+      "confName": "2W",
+      "confFullName": "2A West",
       "confPrestige": "50",
       "confTeams": 
       [        
@@ -2521,8 +2521,8 @@
       ]
     },    
     {
-      "confName": "2W",
-      "confFullName": "2A West",
+      "confName": "1W",
+      "confFullName": "1A West",
       "confPrestige": "35",
       "confTeams": 
       [        
@@ -2769,8 +2769,8 @@
       ]
     },    
     {
-      "confName": "1A",
-      "confFullName": "1A",
+      "confName": "1E",
+      "confFullName": "1A East",
       "confPrestige": "25",
       "confTeams": 
       [        
