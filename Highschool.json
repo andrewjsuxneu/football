@@ -1859,7 +1859,7 @@
           "abbreviation": "MIA",
           "prestige": "47",
           "state": "Oklahoma",
-          "rival": "GROVE",
+          "rival": "GRO",
           "headCoach": 
           {
             "name": "Justin Brancheau",
@@ -2273,7 +2273,7 @@
       ]
     },    
     {
-      "confName": "2AE",
+      "confName": "2E",
       "confFullName": "2A East",
       "confPrestige": "46",
       "confTeams": 
@@ -2521,7 +2521,7 @@
       ]
     },    
     {
-      "confName": "2AW",
+      "confName": "2W",
       "confFullName": "2A West",
       "confPrestige": "35",
       "confTeams": 
@@ -2769,8 +2769,8 @@
       ]
     },    
     {
-      "confName": "2A E",
-      "confFullName": "2A East",
+      "confName": "1A",
+      "confFullName": "1A",
       "confPrestige": "25",
       "confTeams": 
       [        
