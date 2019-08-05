@@ -41,7 +41,7 @@
   "conferences": 
   [    
     {
-      "confName": "6W",
+      "confName": "SixW",
       "confFullName": "6A West",
       "confPrestige": "72",
       "confTeams": 
@@ -537,7 +537,7 @@
       ]
     },    
     {
-      "confName": "5W",
+      "confName": "Five",
       "confFullName": "5A West",
       "confPrestige": "72",
       "confTeams": 
@@ -1033,7 +1033,7 @@
       ]
     },    
     {
-      "confName": "4W",
+      "confName": "four",
       "confFullName": "4A West",
       "confPrestige": "67",
       "confTeams": 
@@ -1529,7 +1529,7 @@
       ]
     },    
     {
-      "confName": "3W",
+      "confName": "Tre",
       "confFullName": "3A West",
       "confPrestige": "49",
       "confTeams": 
@@ -2025,7 +2025,7 @@
       ]
     },    
     {
-      "confName": "2W",
+      "confName": "tWo",
       "confFullName": "2A West",
       "confPrestige": "50",
       "confTeams": 
@@ -2521,7 +2521,7 @@
       ]
     },    
     {
-      "confName": "1W",
+      "confName": "one",
       "confFullName": "1A West",
       "confPrestige": "35",
       "confTeams": 
