@@ -2971,7 +2971,7 @@
           "abbreviation": "TWEB",
           "prestige": "37",
           "state": "Oklahoma",
-          "rival": "TTECH",
+          "rival": "TECH",
           "headCoach": 
           {
             "name": "Kurt Laza",
@@ -2992,7 +2992,7 @@
         },        
         {
           "name": "Tulsa Tech",
-          "abbreviation": "TTECH",
+          "abbreviation": "TECH",
           "prestige": "41",
           "state": "Oklahoma",
           "rival": "TWEB",
