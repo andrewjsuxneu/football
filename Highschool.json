@@ -1681,7 +1681,7 @@
         {
           "name": "Tuttle",
           "abbreviation": "TUTT",
-          "prestige": "50",
+          "prestige": "55",
           "state": "Oklahoma",
           "rival": "TCUM",
           "headCoach": 
@@ -2854,8 +2854,8 @@
           "rival": "PAGE",
           "headCoach": 
           {
-            "name": "Andrew Biggs",
-            "age": "30",
+            "name": "Jerry Biggs",
+            "age": "21",
             "startYear": "2019",
             "contractYear": "0",
             "contractLength": "7",
@@ -2865,9 +2865,9 @@
             "ratOvr": "78",
             "ratDef": "50",
             "ratOff": "43",
-            "ratTalent": "48",
+            "ratTalent": "85",
             "ratDiscipline": "94",
-            "ratPot": "74"
+            "ratPot": "85"
           }
         },        
         {
@@ -2878,8 +2878,8 @@
           "rival": "PRUE",
           "headCoach": 
           {
-            "name": "Robert Craft",
-            "age": "47",
+            "name": "Kevin Avey",
+            "age": "31",
             "startYear": "2019",
             "contractYear": "0",
             "contractLength": "7",
