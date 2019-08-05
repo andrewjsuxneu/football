@@ -1288,7 +1288,7 @@
       [        
         {
           "name": "East Central",
-          "abbreviation": "TEC",
+          "abbreviation": "ETC",
           "prestige": "56",
           "state": "Oklahoma",
           "rival": "TMEM",
@@ -1315,7 +1315,7 @@
           "abbreviation": "TMEM",
           "prestige": "53",
           "state": "Oklahoma",
-          "rival": "TEC",
+          "rival": "ETC",
           "headCoach": 
           {
             "name": "Toby Cimini",
@@ -1504,7 +1504,7 @@
         },        
         {
           "name": "Tulsa McLain",
-          "abbreviation": "TLML",
+          "abbreviation": "TLTM",
           "prestige": "60",
           "state": "Oklahoma",
           "rival": "TURG",
