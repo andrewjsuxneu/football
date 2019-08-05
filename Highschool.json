@@ -41,7 +41,7 @@
   "conferences": 
   [    
     {
-      "confName": "6A W",
+      "confName": "6AW",
       "confFullName": "6A West",
       "confPrestige": "72",
       "confTeams": 
@@ -289,7 +289,7 @@
       ]
     },    
     {
-      "confName": "6A E",
+      "confName": "6AE",
       "confFullName": "6A East",
       "confPrestige": "88",
       "confTeams": 
@@ -537,7 +537,7 @@
       ]
     },    
     {
-      "confName": "5A W",
+      "confName": "5AW",
       "confFullName": "5A West",
       "confPrestige": "72",
       "confTeams": 
@@ -785,7 +785,7 @@
       ]
     },    
     {
-      "confName": "5A E",
+      "confName": "5AE",
       "confFullName": "5A East",
       "confPrestige": "68",
       "confTeams": 
@@ -1033,7 +1033,7 @@
       ]
     },    
     {
-      "confName": "4A W",
+      "confName": "4AW",
       "confFullName": "4A West",
       "confPrestige": "67",
       "confTeams": 
@@ -1281,7 +1281,7 @@
       ]
     },    
     {
-      "confName": "4A E",
+      "confName": "4AE",
       "confFullName": "4A East",
       "confPrestige": "57",
       "confTeams": 
@@ -1529,7 +1529,7 @@
       ]
     },    
     {
-      "confName": "3A W",
+      "confName": "3AW",
       "confFullName": "3A West",
       "confPrestige": "49",
       "confTeams": 
@@ -1777,14 +1777,14 @@
       ]
     },    
     {
-      "confName": "3A E",
+      "confName": "3AE",
       "confFullName": "3A East",
       "confPrestige": "47",
       "confTeams": 
       [        
         {
           "name": "Grove",
-          "abbreviation": "GROVE",
+          "abbreviation": "GRO",
           "prestige": "55",
           "state": "Oklahoma",
           "rival": "MIA",
@@ -2025,7 +2025,7 @@
       ]
     },    
     {
-      "confName": "3A W",
+      "confName": "3AW",
       "confFullName": "3A West",
       "confPrestige": "50",
       "confTeams": 
@@ -2273,7 +2273,7 @@
       ]
     },    
     {
-      "confName": "2A E",
+      "confName": "2AE",
       "confFullName": "2A East",
       "confPrestige": "46",
       "confTeams": 
@@ -2521,7 +2521,7 @@
       ]
     },    
     {
-      "confName": "2A W",
+      "confName": "2AW",
       "confFullName": "2A West",
       "confPrestige": "35",
       "confTeams": 
