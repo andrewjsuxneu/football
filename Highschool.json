@@ -640,7 +640,7 @@
         },        
         {
           "name": "Midwest City",
-          "abbreviation": "MCITY",
+          "abbreviation": "MIDC",
           "prestige": "71",
           "state": "Oklahoma",
           "rival": "LAWT",
@@ -667,7 +667,7 @@
           "abbreviation": "LAWT",
           "prestige": "73",
           "state": "Oklahoma",
-          "rival": "MCITY",
+          "rival": "MIDC",
           "headCoach": 
           {
             "name": "Matt George",
@@ -1584,7 +1584,7 @@
         },        
         {
           "name": "Chickasha",
-          "abbreviation": "CHICK",
+          "abbreviation": "CHIK",
           "prestige": "55",
           "state": "Oklahoma",
           "rival": "CUSH",
@@ -1635,7 +1635,7 @@
           "abbreviation": "CUSH",
           "prestige": "50",
           "state": "Oklahoma",
-          "rival": "CHICK",
+          "rival": "CHIK",
           "headCoach": 
           {
             "name": "Cameron Raetz",
