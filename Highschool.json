@@ -41,7 +41,7 @@
   "conferences": 
   [    
     {
-      "confName": "6AW",
+      "confName": "6W",
       "confFullName": "6A West",
       "confPrestige": "72",
       "confTeams": 
@@ -289,7 +289,7 @@
       ]
     },    
     {
-      "confName": "6AE",
+      "confName": "6E",
       "confFullName": "6A East",
       "confPrestige": "88",
       "confTeams": 
@@ -537,7 +537,7 @@
       ]
     },    
     {
-      "confName": "5AW",
+      "confName": "5W",
       "confFullName": "5A West",
       "confPrestige": "72",
       "confTeams": 
@@ -785,7 +785,7 @@
       ]
     },    
     {
-      "confName": "5AE",
+      "confName": "5E",
       "confFullName": "5A East",
       "confPrestige": "68",
       "confTeams": 
@@ -1033,7 +1033,7 @@
       ]
     },    
     {
-      "confName": "4AW",
+      "confName": "4W",
       "confFullName": "4A West",
       "confPrestige": "67",
       "confTeams": 
@@ -1281,7 +1281,7 @@
       ]
     },    
     {
-      "confName": "4AE",
+      "confName": "4E",
       "confFullName": "4A East",
       "confPrestige": "57",
       "confTeams": 
@@ -1529,7 +1529,7 @@
       ]
     },    
     {
-      "confName": "3AW",
+      "confName": "3W",
       "confFullName": "3A West",
       "confPrestige": "49",
       "confTeams": 
@@ -1777,7 +1777,7 @@
       ]
     },    
     {
-      "confName": "3AE",
+      "confName": "3E",
       "confFullName": "3A East",
       "confPrestige": "47",
       "confTeams": 
@@ -2025,7 +2025,7 @@
       ]
     },    
     {
-      "confName": "3AW",
+      "confName": "3W",
       "confFullName": "3A West",
       "confPrestige": "50",
       "confTeams": 
