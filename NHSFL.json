@@ -615,7 +615,7 @@
           }
         },        
         {
-          "name": "ALEDO",
+          "name": "Aledo",
           "abbreviation": "ALED",
           "prestige": "67",
           "state": "Texas",
@@ -1034,7 +1034,7 @@
     },    
     {
       "confName": "OHI",
-      "confFullName": "OHIO",
+      "confFullName": "Ohio",
       "confPrestige": "71",
       "confTeams": 
       [        
