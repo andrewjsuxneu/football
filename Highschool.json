@@ -2448,7 +2448,7 @@
         },        
         {
           "name": "Purcell",
-          "abbreviation": "PCELL",
+          "abbreviation": "PCEL",
           "prestige": "41",
           "state": "Oklahoma",
           "rival": "PV",
@@ -2499,7 +2499,7 @@
           "abbreviation": "PV",
           "prestige": "43",
           "state": "Oklahoma",
-          "rival": "PCELL",
+          "rival": "PCEL",
           "headCoach": 
           {
             "name": "Jeremy Venier",
